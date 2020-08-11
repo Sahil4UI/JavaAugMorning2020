@@ -1,0 +1,7 @@
+EXERCISE  QUESTIONS
+
+1.  We have three numbers a,b,c. You have to find which one is largest
+2.  Check wether a given year ->leap year not not a leap year
+3. You have three given value of Principle, rate and time.Find Simple Interest
+				SI = (P*R*T)/100
+4.enter the mark of three subjects of Student.(p,c, m),find the average and print the result in grade
