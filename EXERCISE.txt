@@ -5,3 +5,11 @@ EXERCISE  QUESTIONS
 3. You have three given value of Principle, rate and time.Find Simple Interest
 				SI = (P*R*T)/100
 4.enter the mark of three subjects of Student.(p,c, m),find the average and print the result in grade
+
+
+
+-----------------------------------------------------
+loop exercise->
+1. check wether number is prime or not.
+2. find sum of digits of number (123->6)
+3. Check wether number is Armstrong Number ->(153 ->1+125+27=153)
